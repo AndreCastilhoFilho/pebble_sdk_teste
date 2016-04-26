@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "ROKO IT",
+    "enableMultiJS": false,
+    "longName": "conta-viradas",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "swimCounter",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "2003bce7-bd05-46a2-a75f-7c83c0b95362",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
